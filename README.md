@@ -1,6 +1,8 @@
 # Atlan: The Architecture of Contextual Intelligence
 ### Bridging the Context Gap — A Technical Study
 
+> **Series:** This is part of an architecture-studies series with Ontora. Companion: [Ontora Architecture Study](https://github.com/sanoojcools/-ontora-architecture-study) — the repo name has a leading hyphen: `-ontora-architecture-study`.
+
 > I first saw Atlan's demo while researching metadata tools. The lineage graph looked like every other catalog. Then I noticed the Slack thread embedded in a column description. I spent a week researching public signals — UI screenshots, API docs, GitHub, Gartner MQ Nov 2025 (G00808349), and Prukalpa's "Becoming a Frontier Company" essay.
 
 > **This is not a teardown. It is a technical study of an ambitious architecture built under extreme constraints. Every builder will recognize the tradeoffs. And I may be wrong about any of it — corrections welcome.**
@@ -124,6 +126,6 @@ If the founders read this: I would love to be wrong about the quantification gap
 
 **Method:** Public-signal OSINT only. No NDA, no insider access. Architecture reconstructed from UI evidence + docs + first principles. I may be wrong — corrections welcome.
 
-**Author:** Sanuj Krishnan | Series: [Ontora Architecture Study](https://github.com/sanoojcools/-ontora-architecture-study) → Atlan Study
+**Author:** Sanuj Krishnan | Series: [Ontora Architecture Study](https://github.com/sanoojcools/-ontora-architecture-study) (`-ontora-architecture-study`) → Atlan Study
 
 **Diagrams:** 5 high-res, optimized for GitHub light/dark mode, no text overflow.
